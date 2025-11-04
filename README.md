@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shiban
 
 ## 👋 Who am I?
-🎓 MSc Data Science & Finance graduate from [University of Westminster & Queen Mary University of London], currently based in London  
+🎓 MSc Data Science & Finance graduate from the **University of Westminster** and **Queen Mary University of London**, currently based in London  
 💼 Experienced in data analysis, reporting, and machine learning  
 📊 Passionate about using data to drive product and business insights  
 🏏 Cricket enthusiast | 🎸 Self-taught guitarist
