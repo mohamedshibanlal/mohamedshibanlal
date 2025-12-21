@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋, I'm Shiban<br><br>## 👋 Who am I?<br>🎓 MSc Data Science & Finance graduate from the **University of Westminster** and **Queen Mary University of London**, currently based in London  <br>💼 Experienced in data analysis, reporting, and machine learning  <br>📊 Passionate about using data to drive product and business insights  <br>🏏 Cricket enthusiast | 🎸 Self-taught guitarist<br><br>## 🔬 What I'm working on<br>- Exploring deep learning, AI, and its real-world applications  <br>- Building data-driven portfolio projects using SQL, Python, and Power BI/Tableau
+## Hi there 👋, I'm Shiban<br><br>## 👋 Who am I?<br>🎓 MSc Data Science & Finance graduate from the **University of Westminster** and **Queen Mary University of London**, currently based in London  <br>💼 Experienced in data analysis, reporting, and machine learning  <br>📊 Passionate about using data to drive product and business insights  <br>🏏 Cricket enthusiast | 🎸 Self-taught guitarist<br><br>## 🔬 What I'm working on<br>- Exploring SaaS Product/Operation Analytics, Automating Workflow <br>- Building data-driven portfolio projects using SQL, Python, and Power BI/Tableau
 
 
 ## 🌐 Socials:
